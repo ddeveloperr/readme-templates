@@ -1,6 +1,6 @@
 # README BLUEPRINT TEMPLATES 
 > README.md template blueprint (Nice and clear) for your software products, code examples, simple projects...
-
+  It will help you to save time in a smart way!
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
@@ -8,8 +8,8 @@
 
 One to two paragraph statement about my product and what it does...
 
-My main goal is to save developer's time when they are writting README.md file for their projects with clear and readable information about. 
-When you finish your product, copy content of this .md file(s), edit details and use it in your project! That will look nice and clear!
+My main goal is to save developers time when they are writting README.md file for their projects with clear and readable information about. 
+When you ready with your product, simple project... copy content of .md file(s), edit details and use it in your project! That will look nice and clear!
 
 ## Screen
 ![](http://i.imgur.com/A3JzwLe.jpg?1)
