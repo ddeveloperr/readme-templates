@@ -58,11 +58,11 @@ npm test
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/) – YourEmail@example.com
+Kemal C. – [@ddeveloperr](https://twitter.com/ddeveloperr) – ddeveloperr@gmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/ddeveloperr/)
+[github.com/ddeveloperr/readme-templates](https://github.com/ddeveloperr/readme-templates)
 
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/datadog-metrics
