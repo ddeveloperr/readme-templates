@@ -1,6 +1,6 @@
 # README BLUEPRINT TEMPLATES 
-> README.md template blueprint (Nice and clear) for your software products, code examples, simple projects...
-  It will help you to save time in a smart way!
+> README.md blueprint template (Nice and clear) for your software products, code examples, simple projects...
+  It will help you to save development time in a smart way!
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
