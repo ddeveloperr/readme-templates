@@ -75,7 +75,7 @@ We use [Git](https://git-scm.com/) for versioning. For the versions available, s
 
 ## Authors
 
-* **Kemal Cholovich** - *Initial work* - [PurpleBooth](https://github.com/ddeveloperr)
+* **Kemal Cholovich**(Insert your name here...) - *Initial work* - [ddeveloperr](https://github.com/ddeveloperr/readme-templates)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
