@@ -1,4 +1,4 @@
-# README TEMPLATES BLUEPRINT
+# README BLUEPRINT TEMPLATES 
 > README.md template blueprint (Nice and clear) for your software products, code examples, simple projects...
 
 
